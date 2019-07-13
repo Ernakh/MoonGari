@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 6c04bedc5005f9d419975eba56051f8e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: corpo
+    100008: corpo001
+    100010: corpo002
+    100012: Cylinder001
+    100014: Cylinder002
+    100016: Cylinder003
+    100018: Cylinder004
+    100020: Cylinder005
+    100022: Line002
+    100024: //RootNode
+    100026: tampa
+    100028: tampa001
+    100030: tampa002
+    100032: w
+    100034: w001
+    100036: w002
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: corpo
+    400008: corpo001
+    400010: corpo002
+    400012: Cylinder001
+    400014: Cylinder002
+    400016: Cylinder003
+    400018: Cylinder004
+    400020: Cylinder005
+    400022: Line002
+    400024: //RootNode
+    400026: tampa
+    400028: tampa001
+    400030: tampa002
+    400032: w
+    400034: w001
+    400036: w002
+    2100000: mat_lixo
+    2100002: 01 - Default
+    2100004: 03 - Default
+    2100006: mat_hidrante
+    2100008: mat_maca1
+    2100010: mat_maca2
+    2100012: mat_nutella1
+    2100014: mat_nutella2
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: corpo
+    2300008: corpo001
+    2300010: corpo002
+    2300012: Cylinder001
+    2300014: Cylinder002
+    2300016: Cylinder003
+    2300018: Cylinder004
+    2300020: Cylinder005
+    2300022: Line002
+    2300024: tampa
+    2300026: tampa001
+    2300028: tampa002
+    2300030: w
+    2300032: w001
+    2300034: w002
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: corpo
+    3300008: corpo001
+    3300010: corpo002
+    3300012: Cylinder001
+    3300014: Cylinder002
+    3300016: Cylinder003
+    3300018: Cylinder004
+    3300020: Cylinder005
+    3300022: Line002
+    3300024: tampa
+    3300026: tampa001
+    3300028: tampa002
+    3300030: w
+    3300032: w001
+    3300034: w002
+    4300000: Line002
+    4300002: Cylinder001
+    4300004: Box001
+    4300006: Box002
+    4300008: Box003
+    4300010: Cylinder002
+    4300012: Cylinder003
+    4300014: Cylinder004
+    4300016: Cylinder005
+    4300018: w
+    4300020: w001
+    4300022: w002
+    4300024: corpo
+    4300026: tampa
+    4300028: corpo001
+    4300030: tampa001
+    4300032: corpo002
+    4300034: tampa002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

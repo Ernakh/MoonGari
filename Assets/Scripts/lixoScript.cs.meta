@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 746f794bfb235df458d161a46a26d844
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioS: {instanceID: 0}
+  - bilu1: {fileID: 8300000, guid: 31f0517ad795da54bad8fa81f8c9de76, type: 3}
+  - bilu2: {fileID: 8300000, guid: b3ada451dd772fd4aad88fb8bc94b737, type: 3}
+  - bilu3: {fileID: 8300000, guid: 6d5d9cf916809184da79d3ad2c0a63fc, type: 3}
+  - bilu4: {fileID: 8300000, guid: f5d5162c00339b24e8210e783059d78b, type: 3}
+  - bilu5: {fileID: 8300000, guid: 3d0a7b8204ea3a441b30794d375f8fc4, type: 3}
+  - bilu6: {fileID: 8300000, guid: 17041c8e8f06acc44b27a97b8fa8f422, type: 3}
+  - bilu7: {fileID: 8300000, guid: c8636e573f9718f48be6c68c92b5f7ff, type: 3}
+  - scriptGeral: {instanceID: 0}
+  - player: {fileID: 114928139923190156, guid: 8d26fe8a0d050c34d8527fa9adce4b12, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
